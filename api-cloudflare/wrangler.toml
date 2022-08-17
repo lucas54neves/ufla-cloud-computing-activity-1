@@ -1,0 +1,7 @@
+name = "ufla-api-cloud1"
+main = "./src/index.ts"
+compatibility_date = "2022-08-16"
+
+kv_namespaces = [
+  { binding = "ufla", id = "1a8fd5c08c764907b574c34ef8717b0b" }
+]
